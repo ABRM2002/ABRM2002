@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic Network Security Analysis               | <a href="https://coursera.org/verify/MJ7HZEHSUM2G">Wireshark for Basic Network Security Analysis  </a>|
+| Basic Network Security Analysis               | <a href="https://github.com/ABRM2002/Basic-Network-Security-Analysis/tree/main">Wireshark for Basic Network Security Analysis </a>|
 | Ethical Penetration Testing                   | <a href="https://coursera.org/verify/6SAFJY6NXZ2E"> Metasploit for Beginners: Ethical Penetration Testing  </a>|
 | Microsoft Windows Defender and Firewall       | <a href="https://coursera.org/verify/HCFCEJNU5LRX">Microsoft Windows Defender and Firewall for Beginners</a>|
 
@@ -48,6 +48,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Wireshark for Basic Network Security Analysis
+- <a href="https://github.com/ABRM2002/Basic-Network-Security-Analysis/tree/main">Wireshark for Basic Network Security Analysis </a>
 - Metasploit for Beginners: Ethical Penetration Testing
 - Microsoft Windows Defender and Firewall for Beginners
