@@ -1,7 +1,5 @@
 # Hello, I'm Abhiram
-<a href="www.linkedin.com/in/tgabhiram">
-</a>
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="www.linkedin.com/in/tgabhiram"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 [Brief Introduction]
