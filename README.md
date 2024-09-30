@@ -2,9 +2,11 @@
 <a href="https://www.linkedin.com/in/tgabhiram"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-[Brief Introduction]
 
-I am a recent Computer Science Graduate with a profound interest in cybersecurity technology and a dedication towards solving complex problems.
+Hey 👋🏼
+I am a recent Computer Science Graduate 🎓
+with a profound interest in Cybersecurity Technology 🧑🏻‍💻 
+and a dedication towards solving complex problems.🧩
 
 ## Objective
 
