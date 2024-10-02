@@ -1,35 +1,37 @@
-# Hello, I'm Abhiram
+# 👋 Hello, I'm Abhiram T.G
+
 <a href="https://www.linkedin.com/in/tgabhiram"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
+- 🎓 Recent Computer Science Graduate  
 
-👋 **Hello! I'm Abhiram T.G**  
+- 🔒 Aspiring Security Operations Analyst (Tier 1)
 
-🎓 Recent Computer Science graduate  
+- 🧑🏻‍💻 I am passionate about Cybersecurity and continuously improving my skills to protect systems from emerging threats.
 
-🔒 Aspiring Security Operations Analyst (Tier 1)
+- 🚀 I am currently exploring Security Operations, Incident Detection, and Threat Response.
 
-I am passionate about cybersecurity and continuously improving my skills to protect systems from emerging threats.
-I am currently exploring security operations, incident detection, and threat response.
+---
 
-💻 **Tech Stack**:  
-- Python, JavaScript  
-- Linux, Windows  
-- SIEM Tools, Network Security  
-- Vulnerability Assessment, Malware Analysis  
+### Currently Learning 📚 
 
-📚 **Currently Learning**:  
-- Cyber Threat Intelligence  
+- Cyber Threat Intelligence
+  
 - SOC best practices  
+
 - Penetration testing basics
 
-Let’s connect and build secure systems together!
+### Let’s connect and build secure systems together!
 
-## Objective
+---
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Objective 🎯
 
-## Skills
+My journey in computer science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+---
+
+## Skills 🧩
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -37,7 +39,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Ethical Penetration Testing                   | <a href="https://github.com/ABRM2002/Metasploit-for-Beginners-Ethical-Penetration-Testing/tree/main"> Metasploit for Beginners: Ethical Penetration Testing  </a>|
 | Microsoft Windows Defender and Firewall       | <a href="https://github.com/ABRM2002/Microsoft-Windows-Defender-and-Firewall-for-Beginners/tree/main">Microsoft Windows Defender and Firewall for Beginners</a>|
 
-## Tools
+---
+
+## Tools 🛠️
 
 ### Network
 <div>
@@ -53,7 +57,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
     
 </div>
 
-## Certifications
+---
+
+## Certifications 💼
 
 <div>
 <a href="https://coursera.org/verify/professional-cert/PFPA88PP4ZT4" target="_blank">
@@ -66,7 +72,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
-## Projects
+## Projects 💡
 - <a href="https://github.com/ABRM2002/Basic-Network-Security-Analysis/tree/main">Wireshark for Basic Network Security Analysis </a>
 - <a href="https://github.com/ABRM2002/Metasploit-for-Beginners-Ethical-Penetration-Testing/tree/main"> Metasploit for Beginners: Ethical Penetration Testing  </a>
 - <a href="https://github.com/ABRM2002/Microsoft-Windows-Defender-and-Firewall-for-Beginners/tree/main">Microsoft Windows Defender and Firewall for Beginners</a>
