@@ -3,10 +3,24 @@
 
 
 
-Hey 👋🏼
-I am a recent Computer Science Graduate 🎓
-with a profound interest in Cybersecurity Technology 🧑🏻‍💻 
-and a dedication towards solving complex problems.🧩
+👋 **Hello! I'm Abhiram T.G**  
+🎓 Recent Computer Science graduate  
+🔒 Aspiring Security Operations Analyst (Tier 1)
+
+I’m passionate about cybersecurity and continuously improving my skills to protect systems from emerging threats. I am currently exploring security operations, incident detection, and threat response.
+
+💻 **Tech Stack**:  
+- Python, JavaScript  
+- Linux, Windows  
+- SIEM Tools, Network Security  
+- Vulnerability Assessment, Malware Analysis  
+
+📚 **Currently Learning**:  
+- Cyber Threat Intelligence  
+- SOC best practices  
+- Penetration testing basics
+
+Let’s connect and build secure systems together!
 
 ## Objective
 
