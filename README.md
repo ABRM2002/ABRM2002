@@ -72,6 +72,8 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 </div>
 
+---
+
 ## Projects 💡
 - <a href="https://github.com/ABRM2002/Basic-Network-Security-Analysis/tree/main">Wireshark for Basic Network Security Analysis </a>
 - <a href="https://github.com/ABRM2002/Metasploit-for-Beginners-Ethical-Penetration-Testing/tree/main"> Metasploit for Beginners: Ethical Penetration Testing  </a>
