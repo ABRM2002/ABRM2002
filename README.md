@@ -3,31 +3,31 @@
 <a href="https://www.linkedin.com/in/tgabhiram"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-- 🎓 Recent Computer Science Graduate  
+- 🎓 **Recent Computer Science Graduate**  
 
-- 🔒 Aspiring Security Operations Analyst (Tier 1)
+- 🔒 **Aspiring Security Operations Analyst (Tier 1)**
 
-- 🧑🏻‍💻 I am passionate about Cybersecurity and continuously improving my skills to protect systems from emerging threats.
+- 🧑🏻‍💻 **I am passionate about Cybersecurity and continuously improving my skills to protect systems from emerging threats.**
 
-- 🚀 I am currently exploring Security Operations, Incident Detection, and Threat Response.
+- 🚀 **I am currently exploring Security Operations, Incident Detection, and Threat Response.**
 
 ---
 
 ### Currently Learning 📚 
 
-- Cyber Threat Intelligence
+- **Cyber Threat Intelligence**
   
-- SOC best practices  
+- **SOC best practices** 
 
-- Penetration testing basics
+- **Penetration testing basics**
 
-### Let’s connect and build secure systems together!
+### ***Let’s Connect and Build secure systems together!*** 🫱🏽‍🫲🏾 ###
 
 ---
 
 ## Objective 🎯
 
-My journey in computer science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for **Cybersecurity**, and I am now eager to transition into this field, specifically aiming to join a **Security Operations Center (SOC) as a Tier 1 Analyst.**
 
 ---
 
@@ -35,9 +35,9 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic Network Security Analysis               | <a href="https://github.com/ABRM2002/Basic-Network-Security-Analysis/tree/main">Wireshark for Basic Network Security Analysis </a>|
-| Ethical Penetration Testing                   | <a href="https://github.com/ABRM2002/Metasploit-for-Beginners-Ethical-Penetration-Testing/tree/main"> Metasploit for Beginners: Ethical Penetration Testing  </a>|
-| Microsoft Windows Defender and Firewall       | <a href="https://github.com/ABRM2002/Microsoft-Windows-Defender-and-Firewall-for-Beginners/tree/main">Microsoft Windows Defender and Firewall for Beginners</a>|
+| **Basic Network Security Analysis**               | <a href="https://github.com/ABRM2002/Basic-Network-Security-Analysis/tree/main">Wireshark for Basic Network Security Analysis </a>|
+| **Ethical Penetration Testing**                   | <a href="https://github.com/ABRM2002/Metasploit-for-Beginners-Ethical-Penetration-Testing/tree/main"> Metasploit for Beginners: Ethical Penetration Testing  </a>|
+| **Microsoft Windows Defender and Firewall**       | <a href="https://github.com/ABRM2002/Microsoft-Windows-Defender-and-Firewall-for-Beginners/tree/main">Microsoft Windows Defender and Firewall for Beginners</a>|
 
 ---
 
