@@ -43,14 +43,14 @@ My journey in computer science has led me to develop a passion for **Cybersecuri
 
 ## Tools 🛠️
 
-### Network
+### NETWORK 🌐 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
    <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 
 </div>
 
-### SIEM
+### SIEM 🔎
 <div>
     
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
