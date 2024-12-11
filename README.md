@@ -21,8 +21,6 @@
 
 - **Penetration testing basics**
 
-- **Comptia Security+**
-
 ### ***Let’s Connect and Build secure systems together!*** 🫱🏽‍🫲🏾 ###
 
 ---
