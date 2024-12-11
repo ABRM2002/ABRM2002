@@ -66,11 +66,13 @@ My journey in computer science has led me to develop a passion for **Cybersecuri
 ## Certifications 💼
 
 <div>
+
 <a href="https://coursera.org/verify/professional-cert/PFPA88PP4ZT4" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-%20Google-007ACC?style=for-the-badge&logo=Google&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-%20Google-007ACC?style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://verify.comptia.org/" target="_blank">
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://arcx.io/verify-certificate?id=7646d5a1becc4c4221c97a324404cb9e1ce9bce9&k=f34f23b1fe7844f999acd71577c64c55" target="_blank">
-    <img src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence%20101-ArcX-007ACC?style=for-the-badge&logo=arcX&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence%20101-ArcX-007ACC?style=for-the-badge&logo=arcX&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Endpoint%20Detection%20and%20Response%20Foundation-%20Qualys-A50000?style=for-the-badge&logo=Qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/Vulnerability%20Management%20Foundation-%20Qualys-A50000?style=for-the-badge&logo=Qualys&logoColor=white" />
 
