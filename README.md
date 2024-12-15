@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💻 **I am passionate about Cybersecurity and continuously improving my skills to protect systems from emerging threats.**
 
-- 🚀 **I am currently exploring Security Operations, Incident Detection, and Threat Response.**
+- 🚀 **I am currently exploring Security Operations, Incident Detection, and Threat Intelligence.**
 
 ---
 
