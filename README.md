@@ -14,12 +14,10 @@
 ---
 
 ### Currently Learning 📚 
+  
+- **SOC best practices**
 
 - **Cyber Threat Intelligence**
-  
-- **SOC best practices** 
-
-- **Penetration testing basics**
 
 ### ***Let’s Connect and Build secure systems together!*** 🫱🏽‍🫲🏾 ###
 
