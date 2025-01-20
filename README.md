@@ -19,6 +19,8 @@
 
 - **Cyber Threat Intelligence**
 
+- **Digital Forensics**
+
 ### ***Let’s Connect and Build secure systems together!*** 🫱🏽‍🫲🏾 ###
 
 ---
