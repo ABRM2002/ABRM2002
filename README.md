@@ -48,8 +48,8 @@ My journey in computer science has led me to develop a passion for **Cybersecuri
 ### NETWORK 🌐 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 
