@@ -21,6 +21,8 @@
 
 - **Digital Forensics**
 
+- **VAPT Basics**
+
 ### ***Let’s Connect and Build secure systems together!*** 🫱🏽‍🫲🏾 ###
 
 ---
