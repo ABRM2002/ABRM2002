@@ -49,22 +49,39 @@ My journey in computer science has led me to develop a passion for **Cybersecuri
 
 ## Tools 🛠️
 
-### NETWORK 🌐 
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
+
+### PROGRAMMING/SCRIPTING 💻
+<div> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> 
 </div>
-
-
 
 ### SIEM 🔎
-<div>
-    
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    
+<div> 
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Wazuh-09419D?style=for-the-badge&logo=wazuh&logoColor=white" /> 
 </div>
 
+### IDS/IPS 🛡️
+<div> 
+  <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Suricata-2B607E?style=for-the-badge&logo=suricata&logoColor=white" /> 
+</div>
+
+### NETWORK & FORENSIC ANALYSIS 🌐 
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### VAPT ⚔️
+<div> 
+  <img src="https://img.shields.io/badge/Metasploit-030099?style=for-the-badge&logo=metasploit&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Nmap-CC0000?style=for-the-badge&logo=nmap&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-600A63?style=for-the-badge&logo=owasp-zap&logoColor=white" /> </div>
+
+### OSINT 🕵️
+<div> <img src="https://img.shields.io/badge/Maltego-177EDC?style=for-the-badge&logo=maltego&logoColor=white" /> </div>
 
 ---
 
