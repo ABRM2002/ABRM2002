@@ -5,7 +5,7 @@
 
 - 🎓 **Computer Science Graduate**  
 
-- 🔒 **Aspiring Security Operations Analyst (Tier 1)**
+- 🛡️ **Cyber Security Analyst L-1**
 
 - 🧑🏻‍💻 **I am passionate about Cybersecurity and continuously improving my skills to protect systems from emerging threats.**
 
