@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/tgabhiram"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-- 🎓 **Recent Computer Science Graduate**  
+- 🎓 **Computer Science Graduate**  
 
 - 🔒 **Aspiring Security Operations Analyst (Tier 1)**
 
@@ -23,6 +23,8 @@
 
 - **VAPT Basics**
 
+- **Malware Analysis**
+  
 ### ***Let’s Connect and Build secure systems together!*** 🫱🏽‍🫲🏾 ###
 
 ---
